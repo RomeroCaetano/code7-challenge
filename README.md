@@ -26,5 +26,7 @@ https://documenter.getpostman.com/view/6022894/TW6zJ8MU
 
 # Stack
 
-- **Backend** Express, Typeorm and Typescript
-- **Frontend** ReactJS, Antd and Typescript
+- **Backend** 
+  -Express, Typeorm and Typescript
+- **Frontend** 
+  -ReactJS, Antd and Typescript
