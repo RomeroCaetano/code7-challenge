@@ -1,0 +1,15 @@
+.ant-layout-has-sider {
+  height: 100vh;
+}
+aside[class="ant-layout-sider ant-layout-sider-dark ant-layout-sider-collapsed"] {
+  max-width: 80px !important;
+  min-width: 80px !important;
+  width: 80px !important;
+  flex: 0 0 80px !important;
+}
+aside[class="ant-layout-sider ant-layout-sider-dark"] {
+  max-width: 300px !important;
+  min-width: 300px !important;
+  width: 300px !important;
+  flex: 0 0 300px !important;
+}

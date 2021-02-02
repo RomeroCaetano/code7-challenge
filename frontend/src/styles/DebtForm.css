@@ -1,0 +1,11 @@
+.ant-card-body {
+  width: 90%;
+}
+.ant-card.ant-card-bordered {
+  height: 100vh;
+}
+.create-debt-button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
